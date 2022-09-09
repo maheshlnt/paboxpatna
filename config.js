@@ -14,7 +14,7 @@
 "adapterApi":{​
 "url":"https://smartpatna.quantela.com/quanteladataapi/webhook/L1ME6IIBH5tH8P7qCSYl",
 "method":"POST",
-"headers":{​"Content-Type":"application/json", "apikey":"478d5225-0d88-4910-b928-595df5055384"}​,
+"headers":{​"Content-Type":"application/json", "apikey":"24eeb56c-cc7d-4c70-a2e3-c9e514f594cb"}​,
 "data":{​}​,
 "baseURL":"",
 "json":true
